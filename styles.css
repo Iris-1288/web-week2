@@ -2,7 +2,6 @@ body{
     background-color:purple;
 }
 p{
-   
     color:lightpink
 }
 h1,h2,h3,h4,h5,h6{
@@ -40,5 +39,9 @@ li {
 }
  .fave{
     color: orangered;
+ }
+ .pizza{
+
+    width:50%;
  }
    
