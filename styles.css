@@ -51,7 +51,7 @@ li {
 }
 
 /* Cake page */
-_cake-text {
+.cake-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     color: white; 
@@ -76,13 +76,15 @@ _cake-text {
 
     display: flex;
     justify-content: space-evenly;
-    flex-wrap: warp;
+    flex-wrap: wrap;
 }
+
 
 .cake-item{
 
     border: 1px dashed yellow;
     width:275px;
+    height: 275px;
     padding: 4px;
 }
 
